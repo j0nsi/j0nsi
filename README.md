@@ -3,6 +3,6 @@
 
 
 
-- 🔭 I’m currently working on [Valakur.ar](https://valkur.ar)
+- 🔭 I’m currently working on [Valkur.ar](https://valkur.ar)
 
 
